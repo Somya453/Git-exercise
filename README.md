@@ -21,6 +21,8 @@ Clone your forked repository to your local system using the following command:
 [Sample](https://github.com/user-attachments/assets/67e710dd-3823-40c8-885c-18edf3b30590)
 
 API USED - [Link](https://rapidapi.com/shreekant74sk/api/quotes-api12)
+      or
+ Why stop now? 🌟 Just drop in your API key, commit the magic, and push it to GitHub! #LearningGitHub #CodeIntegration
 ---
 
 ### 4. Commit and Push Your Work
