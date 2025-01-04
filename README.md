@@ -40,3 +40,6 @@ After completing the project push it to your forked repo.
   - Submit your pull request.
 ---
 
+<h1 align="center">One commit closer to greatness!</h1>
+
+---
